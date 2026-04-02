@@ -1,0 +1,5 @@
+{
+  "name": "Swiss Palace - Restaurant, Lounge & Bar Dakar",
+  "description": "L'excellence culinaire au cœur de Dakar Plateau. Restaurant, Lounge et Bar ouvert 24h/24. Cuisine internationale, libanaise et ambiance raffinée.",
+  "requestFramePermissions": ["geolocation"]
+}
