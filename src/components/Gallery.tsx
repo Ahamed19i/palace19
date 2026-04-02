@@ -5,7 +5,7 @@ const galleryImages = [
     id: 1,
     title: "Façade Mythique",
     category: "Extérieur",
-    image: "/images/image_ext1.jpg",
+    image: "/images/ima_ext1.jpg",
   },
   {
     id: 2,
@@ -41,14 +41,21 @@ const galleryImages = [
     id: 7,
     title: "Spécialités Libanaises",
     category: "Cuisine",
-    image: "/images/image_lib1.jpg",
+    image: "/images/image_9.jpg",
   },
   {
     id: 8,
     title: "Terrasse Rooftop",
     category: "Lounge",
     image: "/images/image_int5.jpg",
-  }
+  },
+  {
+    id: 9,
+    title: "Terrasse Rooftop",
+    category: "Lounge",
+    image: "/images/ima_exter2.jpg",
+  },
+
 ];
 
 export default function Gallery() {

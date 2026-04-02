@@ -45,6 +45,14 @@ const menuItems = [
     image: "/images/image_nouri3.jpg",
   },
   {
+    id: 10,
+    category: 'grillades',
+    name: "Plateau Royal de la Mer",
+    description: "Langoustes grillées, poissons du jour, crevettes tigrées et frites maison.",
+    price: "25.000 FCFA",
+    image: "/images/1.jpg",
+  },
+  {
     id: 5,
     category: 'chicha',
     name: "Chicha Premium Menthe-Citron",
@@ -74,7 +82,15 @@ const menuItems = [
     name: "Chicha Double Pomme",
     description: "Le classique indémodable pour une expérience authentique.",
     price: "5.000 FCFA",
-    image: "/images/image_int6.jpg",
+    image: "/images/chicha2.jpg",
+  },
+  {
+    id: 9,
+    category: 'chicha',
+    name: "Chicha Double Pomme",
+    description: "Le classique indémodable pour une expérience authentique.",
+    price: "5.000 FCFA",
+    image: "/images/chicha3.jpg",
   }
 ];
 
