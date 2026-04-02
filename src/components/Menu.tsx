@@ -88,7 +88,7 @@ const menuItems = [
 
 export default function Menu() {
   const [activeCategory, setActiveCategory] = useState('libanais');
-  const whatsappNumber = "221338233333";
+  const whatsappNumber = "221787942729"; // Numéro de téléphone pour les commandes WhatsApp
 
   const filteredItems = menuItems.filter(item => item.category === activeCategory);
 
