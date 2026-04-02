@@ -5,49 +5,49 @@ const galleryImages = [
     id: 1,
     title: "Façade Mythique",
     category: "Extérieur",
-    image: "../../public/images/image_ext1.jpg",
+    image: "/images/image_ext1.jpg",
   },
   {
     id: 2,
     title: "Ambiance Lounge & Chicha",
     category: "Lounge",
-    image: "../../public/images/image_int6.jpg",
+    image: "/images/image_int6.jpg",
   },
   {
     id: 3,
     title: "Plateau de Fruits de Mer",
     category: "Gastronomie",
-    image: "../../public/images/ima_nour5.jpg",
+    image: "/images/image_sen.jpg",
   },
   {
     id: 4,
     title: "Célébrations Inoubliables",
     category: "Événements",
-    image: "../../public/images/image_int3.jpg",
+    image: "/images/image_int3.jpg",
   },
   {
     id: 5,
     title: "Design Skyline New York",
     category: "Intérieur",
-    image: "../../public/images/image_int1.jpg",
+    image: "/images/image_int1.jpg",
   },
   {
     id: 6,
     title: "Soirées Animées au Plateau",
     category: "Ambiance",
-    image: "../../public/images/image_int2.jpg",
+    image: "/images/image_int2.jpg",
   },
   {
     id: 7,
     title: "Spécialités Libanaises",
     category: "Cuisine",
-    image: "../../public/images/ima_nour2.jpg",
+    image: "/images/image_lib1.jpg",
   },
   {
     id: 8,
     title: "Terrasse Rooftop",
     category: "Lounge",
-    image: "../../public/images/image_int5.jpg",
+    image: "/images/image_int5.jpg",
   }
 ];
 

@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Pattern/Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="public/images/image_int4.jpg"
+          src="/images/image_int4.jpg"
           alt="Swiss Palace Night Ambiance"
           className="w-full h-full object-cover opacity-20"
           referrerPolicy="no-referrer"
@@ -68,7 +68,7 @@ export default function Hero() {
         >
           <div className="relative z-10 rounded-[2rem] overflow-hidden shadow-2xl border-8 border-white transform rotate-3 hover:rotate-0 transition-transform duration-500">
             <img
-              src="../public/images/ima_nour3.jpg"
+              src="/images/image_nouri_lib1.jpg"
               alt="Plateau Royal - Fruits de Mer"
               className="w-full aspect-[4/5] object-cover"
               referrerPolicy="no-referrer"

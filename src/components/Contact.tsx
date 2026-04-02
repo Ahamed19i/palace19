@@ -55,7 +55,7 @@ export default function Contact() {
               <a href="https://www.facebook.com/restaurantswisspalace/" target="_blank" rel="noopener noreferrer" className="bg-white/10 p-4 rounded-full hover:bg-brand-red transition-colors flex items-center justify-center">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="bg-white/10 p-4 rounded-full hover:bg-brand-red transition-colors flex items-center justify-center">
+              <a href="https://www.instagram.com/restaurantswisspalace/" target="_blank" rel="noopener noreferrer" className="bg-white/10 p-4 rounded-full hover:bg-brand-red transition-colors flex items-center justify-center">
                 <Instagram size={20} />
               </a>
             </div>

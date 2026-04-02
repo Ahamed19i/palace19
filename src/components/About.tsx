@@ -21,13 +21,13 @@ export default function About() {
               className="grid grid-cols-2 gap-4"
             >
               <img
-                src="../public/images/image_int7.jpg"
+                src="images/image_int7.jpg"
                 alt="Ambiance Swiss Palace"
                 className="rounded-3xl shadow-lg transform translate-y-8"
                 referrerPolicy="no-referrer"
               />
               <img
-                src="../public/images/ima_mix1.jpg"
+                src="/images/ima_mix1.jpg"
                 alt="Célébrations au Swiss Palace"
                 className="rounded-3xl shadow-lg"
                 referrerPolicy="no-referrer"

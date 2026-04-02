@@ -17,7 +17,7 @@ const menuItems = [
     name: "Mezzé Libanais Royal",
     description: "Assortiment complet de houmous, moutabal, falafels, kebbé et labneh servi avec notre pain maison.",
     price: "12.000 FCFA",
-    image: "https://picsum.photos/seed/lebanese-star-bread/600/400",
+    image: "/images/ima_nour2.jpg",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const menuItems = [
     name: "Chawarma Poulet",
     description: "Poulet mariné, crème d'ail, cornichons et frites maison.",
     price: "4.500 FCFA",
-    image: "https://picsum.photos/seed/chawarma/600/400",
+    image: "/images/ima_nour5.jpg",
   },
   {
     id: 3,
@@ -33,15 +33,16 @@ const menuItems = [
     name: "Swiss Palace Brunch",
     description: "Œuf au plat sur toast brioché, sauce hollandaise et accompagnements gourmands.",
     price: "7.500 FCFA",
-    image: "https://picsum.photos/seed/breakfast-egg-toast/600/400",
+    image: "/images/image_nour2.jpg",
   },
+  
   {
     id: 4,
     category: 'grillades',
     name: "Plateau Royal de la Mer",
     description: "Langoustes grillées, poissons du jour, crevettes tigrées et frites maison.",
     price: "25.000 FCFA",
-    image: "https://picsum.photos/seed/seafood-platter-lobster/600/400",
+    image: "/images/image_nouri3.jpg",
   },
   {
     id: 5,
@@ -49,7 +50,7 @@ const menuItems = [
     name: "Chicha Premium Menthe-Citron",
     description: "Saveur fraîche et intense pour vos soirées lounge au Swiss Palace.",
     price: "5.000 FCFA",
-    image: "https://picsum.photos/seed/shisha-fresh/600/400",
+    image: "/images/chicha1.jpg",
   },
   {
     id: 6,
@@ -57,7 +58,7 @@ const menuItems = [
     name: "Taboulé Vert",
     description: "Persil frais, tomates, oignons et boulghour, le tout finement haché.",
     price: "3.500 FCFA",
-    image: "https://picsum.photos/seed/taboule/600/400",
+    image: "/images/image_nouri_lib1.jpg",
   },
   {
     id: 7,
@@ -65,7 +66,7 @@ const menuItems = [
     name: "Salade de Chèvre Chaud",
     description: "Mélange de jeunes pousses, toasts au chèvre frais et herbes de Provence.",
     price: "6.000 FCFA",
-    image: "https://picsum.photos/seed/goat-cheese-salad/600/400",
+    image: "/images/ima_nour5.jpg",
   },
   {
     id: 8,
@@ -73,7 +74,7 @@ const menuItems = [
     name: "Chicha Double Pomme",
     description: "Le classique indémodable pour une expérience authentique.",
     price: "5.000 FCFA",
-    image: "https://picsum.photos/seed/shisha-apple/600/400",
+    image: "/images/image_int6.jpg",
   }
 ];
 
