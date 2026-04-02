@@ -33,7 +33,7 @@ const menuItems = [
     name: "Swiss Palace Brunch",
     description: "Œuf au plat sur toast brioché, sauce hollandaise et accompagnements gourmands.",
     price: "7.500 FCFA",
-    image: "public/images/ima_nour13.jpg",
+    image: "/images/ima_nour13.jpg",
   },
   
   {
