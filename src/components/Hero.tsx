@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Pattern/Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="../public/images/image_int4.jpg"
+          src="public/images/image_int4.jpg"
           alt="Swiss Palace Night Ambiance"
           className="w-full h-full object-cover opacity-20"
           referrerPolicy="no-referrer"
