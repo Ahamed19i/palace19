@@ -5,13 +5,13 @@ const galleryImages = [
     id: 1,
     title: "Façade Mythique",
     category: "Extérieur",
-    image: "/images/ima_ext1.jpg",
+    image: "/images/ima_exter1.jpg",
   },
   {
     id: 2,
     title: "Ambiance Lounge & Chicha",
     category: "Lounge",
-    image: "/images/image_int6.jpg",
+    image: "/images/image_10.jpg",
   },
   {
     id: 3,

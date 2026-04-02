@@ -17,7 +17,7 @@ const menuItems = [
     name: "Mezzé Libanais Royal",
     description: "Assortiment complet de houmous, moutabal, falafels, kebbé et labneh servi avec notre pain maison.",
     price: "12.000 FCFA",
-    image: "/images/ima_nour2.jpg",
+    image: "/images/ima_nour11.avif",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const menuItems = [
     name: "Chawarma Poulet",
     description: "Poulet mariné, crème d'ail, cornichons et frites maison.",
     price: "4.500 FCFA",
-    image: "/images/ima_nour5.jpg",
+    image: "/images/ima_nour10.png",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const menuItems = [
     name: "Swiss Palace Brunch",
     description: "Œuf au plat sur toast brioché, sauce hollandaise et accompagnements gourmands.",
     price: "7.500 FCFA",
-    image: "/images/image_nour2.jpg",
+    image: "public/images/ima_nour13.jpg",
   },
   
   {
@@ -42,7 +42,7 @@ const menuItems = [
     name: "Plateau Royal de la Mer",
     description: "Langoustes grillées, poissons du jour, crevettes tigrées et frites maison.",
     price: "25.000 FCFA",
-    image: "/images/image_nouri3.jpg",
+    image: "/images/ima_nour12.jpg",
   },
   {
     id: 10,
@@ -50,15 +50,7 @@ const menuItems = [
     name: "Plateau Royal de la Mer",
     description: "Langoustes grillées, poissons du jour, crevettes tigrées et frites maison.",
     price: "25.000 FCFA",
-    image: "/images/1.jpg",
-  },
-  {
-    id: 5,
-    category: 'chicha',
-    name: "Chicha Premium Menthe-Citron",
-    description: "Saveur fraîche et intense pour vos soirées lounge au Swiss Palace.",
-    price: "5.000 FCFA",
-    image: "/images/chicha1.jpg",
+    image: "/images/ima_nour9.jpg",
   },
   {
     id: 6,
@@ -74,7 +66,7 @@ const menuItems = [
     name: "Salade de Chèvre Chaud",
     description: "Mélange de jeunes pousses, toasts au chèvre frais et herbes de Provence.",
     price: "6.000 FCFA",
-    image: "/images/ima_nour5.jpg",
+    image: "/images/ima_nour8.jpg",
   },
   {
     id: 8,
